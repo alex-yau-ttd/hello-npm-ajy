@@ -1,0 +1,11 @@
+{
+  "name": "hello-npm-ajy",
+  "version": "1.0.0",
+  "description": "My first NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alex Yau",
+  "license": "ISC"
+}
